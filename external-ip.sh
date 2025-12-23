@@ -1,4 +1,7 @@
 #!/bin/bash
+# Author: 9cco
+# Date: 2025-12-23
+# Use: Attempts to find the external IP of the system and saves it to a file.
 
 outFilePath="$HOME/.config/external-ip.txt"
 
